@@ -17,7 +17,7 @@ public class Ejercicio_2 {
         //Metodo public
         moto1.mostrarMoto();
 
-        //Errores: clase no relacionada en otro paquete
+        //Errores: "has protected access"
         //System.out.println( vehiculo1.tipo );
         //System.out.println( vehiculo1.marca );
         //System.out.println( moto1.tipo );
